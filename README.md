@@ -9,3 +9,32 @@
 <a href="https://github.com/jaysonmulwa/awesome-kenya/blob/master/LICENSE"><img src="https://img.shields.io/github/license/jaysonmulwa/awesome-kenya?color=2b9348" alt="License Badge"/></a>
 </div>
 Resources for Kenya Devs  + A curated list of awesome things made by Kenyan Devs
+
+
+## Categories
+
+#### Mobile
+
+
+#### Web
+
+
+#### IoT
+
+
+#### BlockChain
+
+
+#### AI (ML)
+
+
+#### Data and Analytics
+
+
+#### Libraries and Packages
+
+
+#### APIs
+
+
+
