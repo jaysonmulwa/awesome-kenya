@@ -50,7 +50,7 @@ Resources for Kenya Devs  + A curated list of awesome things made by Kenyan Devs
 ## Contribute
 
 Contributions are always welcome!
-Please read the [contribution guidelines](contributing.md) first.
+Please read the [contribution guidelines](https://github.com/jaysonmulwa/awesome-kenya/blob/master/CONTRIBUTING.md) first.
 
 ## License
 
