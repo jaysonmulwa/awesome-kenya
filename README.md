@@ -10,31 +10,43 @@
 </div>
 Resources for Kenya Devs  + A curated list of awesome things made by Kenyan Devs
 
+### Contents:
+  - [Categories](#categories)
+      - [Mobile](#mobile-)
+      - [Web](#web-)
+      - [IoT](#iot-)
+      - [BlockChain](#blockchain-)
+      - [AI (ML)](#ai-)
+      - [Data and Analytics](#data-and-analytics-)
+      - [Libraries and Packages](#libraries-and-packages-)
+      - [APIs](#apis-)
+  - [Tutorials](#tutorials)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## Categories
 
 #### Mobile
 
-
 #### Web
-
 
 #### IoT
 
-
 #### BlockChain
-
 
 #### AI (ML)
 
-
 #### Data and Analytics
-
 
 #### Libraries and Packages
 
-
 #### APIs
+
+## Tutorials
+
+## Contribute
+
+## License
 
 
 
