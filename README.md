@@ -20,6 +20,7 @@ Resources for Kenya Devs  + A curated list of awesome things made by Kenyan Devs
       - [Data and Analytics](#data-and-analytics-)
       - [Libraries and Packages](#libraries-and-packages-)
       - [APIs](#apis-)
+      - [Other](#other-)
   - [Tutorials](#tutorials)
   - [Contribute](#contribute)
   - [License](#license)
@@ -41,6 +42,8 @@ Resources for Kenya Devs  + A curated list of awesome things made by Kenyan Devs
 #### Libraries and Packages
 
 #### APIs
+
+#### Other
 
 ## Tutorials
 
